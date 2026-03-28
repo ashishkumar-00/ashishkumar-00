@@ -1,4 +1,4 @@
-[README (4).md](https://github.com/user-attachments/files/26325098/README.4.md)
+(https://github.com/user-attachments/files/26325112/README.5.md)
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
@@ -14,7 +14,7 @@
 ## About Me
 
 I am a self-taught developer focused on building clean, scalable, and user-friendly web applications.
-Currently deep-diving into JavaScript, React, and Data Structures — building real projects to solidify every concept.
+Currently learning JavaScript, React, and Data Structures — building real projects to solidify every concept.
 
 | | |
 |---|---|
@@ -52,13 +52,13 @@ Currently deep-diving into JavaScript, React, and Data Structures — building r
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=3600" />
+    <td align="center">
+      <img src="https://github-readme-stats-eight-rho.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&cache_seconds=3600" />
+    <td align="center">
+      <img src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@ Currently deep-diving into JavaScript, React, and Data Structures — building r
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
 ---
@@ -82,7 +82,7 @@ Currently deep-diving into JavaScript, React, and Data Structures — building r
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F130&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
