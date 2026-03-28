@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/26325178/README.6.md)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
