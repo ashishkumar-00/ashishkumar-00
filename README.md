@@ -1,6 +1,7 @@
+[README (4).md](https://github.com/user-attachments/files/26325098/README.4.md)
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
 
 <br/>
 
@@ -12,12 +13,13 @@
 
 ## About Me
 
-I am a self-taught developer focused on building clean, scalable, and user-friendly web applications. Currently deep-diving into JavaScript fundamentals through 71 DOM projects, while simultaneously learning React and Data Structures.
+I am a self-taught developer focused on building clean, scalable, and user-friendly web applications.
+Currently deep-diving into JavaScript, React, and Data Structures — building real projects to solidify every concept.
 
 | | |
 |---|---|
-| Currently Building | 71 JavaScript DOM Projects |
-| Learning | Advanced React & DSA |
+| Focus | Full Stack Web Development |
+| Currently Learning | Advanced React & Data Structures |
 | Interests | Open Source, Web Performance, Clean Code |
 | Contact | primesetup01@gmail.com |
 
@@ -48,21 +50,32 @@ I am a self-taught developer focused on building clean, scalable, and user-frien
 
 ## GitHub Stats
 
-<table align="center" width="100%">
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" width="100%" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&cache_seconds=3600" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF" width="80%" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&cache_seconds=3600" />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" />
+</div>
 
 ---
 
