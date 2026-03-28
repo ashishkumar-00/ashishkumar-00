@@ -1,9 +1,8 @@
-(https://github.com/user-attachments/files/26325112/README.5.md)
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
-
-<br/>
+github kaa yha thik kar do <h1 align="center"> Hey there, I'm Ashish Kumar </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=40&duration=2000&pause=1000&color=6367FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+---
 ## About Me
 - 🚀 Currently working on: **71 JavaScript DOM Projects**
 - 📚 Learning: **Advanced React & Data Structures (DSA)**
