@@ -1,4 +1,4 @@
-github kaa yha thik kar do <h1 align="center"> Hey there, I'm Ashish Kumar </h1>
+ <h1 align="center"> Hey there, I'm Ashish Kumar </h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=40&duration=2000&pause=1000&color=6367FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
