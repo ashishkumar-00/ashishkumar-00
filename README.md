@@ -50,23 +50,14 @@ Currently learning JavaScript, React, and Data Structures — building real proj
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-rho.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="Ashish's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" alt="GitHub Streak" />
 </div>
 
 ---
