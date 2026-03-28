@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar;Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+one+project+at+a+time." alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashishkumar-00&style=flat-square&color=6366F1&label=Profile+Views)](https://github.com/ashishkumar-00)
 
 </div>
-
-<br/>
 
 ---
 
@@ -50,23 +48,28 @@ I am a self-taught developer focused on building clean, scalable, and user-frien
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" width="45%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" width="94%" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF" width="80%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F130&hide_border=true" width="100%" />
 </div>
 
 ---
