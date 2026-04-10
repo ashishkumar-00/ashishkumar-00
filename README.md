@@ -73,10 +73,17 @@ const ashish = {
 
 <div align="center">
   
-<!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" />
+<!-- Stats Cards - Fixed & Working -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" />
+
+</div>
 <br/><br/>
 
 <!-- Streak Stats -->
