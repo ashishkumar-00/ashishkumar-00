@@ -107,11 +107,6 @@ const ashish = {
 </div>
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" />
-
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
