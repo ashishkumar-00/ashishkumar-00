@@ -20,7 +20,7 @@
 
 ```javascript
 const ashish = {
-    location: "Aligarh, India 🇮🇳",
+    location: "Uttar Pradesh, India 🇮🇳",
     role: "Self-Taught Developer",
     currentFocus: "Building Full Stack Skills",
     learning: ["JavaScript", "React", "Node.js", "MongoDB"],
@@ -70,13 +70,34 @@ const ashish = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
-<!-- Stats Cards - Fixed & Working -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" />
+## 📊 GitHub Stats
+
+**🎯 Quick Overview**
+
+| Metric | Status |
+|:---|:---:|
+| 📦 Public Repositories | 7+ |
+| 💻 Primary Language | JavaScript |
+| 🔥 Coding Streak | Active Daily |
+| ⭐ Total Stars | Growing |
+| 👥 Followers | Building Community |
+
+<br/>
+
+**💡 Most Used Technologies**
+
+`JavaScript` `HTML5` `CSS3` `Python` `Git` `VS Code`
+
+<br/>
+
+**📈 2025 Development Goals**
+
+✅ Master JavaScript & DOM Manipulation  
+🔄 Learn React Component Architecture  
+🔄 Build Full Stack MERN Applications  
+🎯 Secure Full Stack Developer Internship  
 
 <br/><br/>
 
