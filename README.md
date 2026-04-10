@@ -112,7 +112,7 @@ const ashish = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
 </div>
 
 ---
