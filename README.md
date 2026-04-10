@@ -1,4 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/26627105/profile-README.md)
+(https://github.com/user-attachments/files/26628754/profile-README.1.md)
 <div align="center">
 
 <!-- Animated Header -->
@@ -70,34 +70,12 @@ const ashish = {
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-## 📊 GitHub Stats
-
-**🎯 Quick Overview**
-
-| Metric | Status |
-|:---|:---:|
-| 📦 Public Repositories | 7+ |
-| 💻 Primary Language | JavaScript |
-| 🔥 Coding Streak | Active Daily |
-| ⭐ Total Stars | Growing |
-| 👥 Followers | Building Community |
-
-<br/>
-
-**💡 Most Used Technologies**
-
-`JavaScript` `HTML5` `CSS3` `Python` `Git` `VS Code`
-
-<br/>
-
-**📈 2025 Development Goals**
-
-✅ Master JavaScript & DOM Manipulation  
-🔄 Learn React Component Architecture  
-🔄 Build Full Stack MERN Applications  
-🎯 Secure Full Stack Developer Internship  
+<!-- ✅ FIX 1: Actual GitHub Stats image added (pehle sirf table thi, image nahi thi) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&langs_count=6" width="40%" />
 
 <br/><br/>
 
@@ -105,14 +83,16 @@ const ashish = {
 <img src="https://streak-stats.demolab.com/?user=ashishkumar-00&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=888888&sideNums=FFFFFF&currStreakNum=FFFFFF" width="70%" />
 
 </div>
-<br/><br/>
+
+<br/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
+<!-- ✅ FIX 2: theme=flat use kiya jo naye accounts par bhi kaam karta hai -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
 </div>
 
 ---
@@ -127,13 +107,14 @@ const ashish = {
 
 ## 🚀 Featured Projects
 
+<!-- ✅ FIX 3: cache_seconds=1800 add kiya taaki fresh data aaye, aur &show_owner=true for better display -->
 <div align="center">
 
-[![DOM Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=DOM-Javascript-71-projects&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true)](https://github.com/ashishkumar-00/DOM-Javascript-71-projects)
-[![Blinkit Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=blinkit-clone&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true)](https://github.com/ashishkumar-00/blinkit-clone)
+[![DOM Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=DOM-Javascript-71-projects&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/DOM-Javascript-71-projects)
+[![Blinkit Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=blinkit-clone&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/blinkit-clone)
 
-[![Zomato Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=zomato-colne&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true)](https://github.com/ashishkumar-00/zomato-colne)
-[![Loop Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=javascript-loop-logic-projects-40&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true)](https://github.com/ashishkumar-00/javascript-loop-logic-projects-40)
+[![Zomato Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=zomato-colne&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/zomato-colne)
+[![Loop Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=javascript-loop-logic-projects-40&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/javascript-loop-logic-projects-40)
 
 </div>
 
