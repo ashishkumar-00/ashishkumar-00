@@ -71,11 +71,6 @@ const ashish = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- ✅ FIX 1: Actual GitHub Stats image added (pehle sirf table thi, image nahi thi) -->
-<img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&count_private=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&langs_count=6" width="40%" />
 
 <br/><br/>
 
@@ -85,23 +80,6 @@ const ashish = {
 </div>
 
 <br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<!-- ✅ FIX 2: theme=flat use kiya jo naye accounts par bhi kaam karta hai -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashishkumar-00&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishkumar-00&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
 
 ---
 
@@ -176,7 +154,7 @@ const ashish = {
 | ✅ Responsive UI development | 🔄 Database management with MongoDB |
 | ✅ Clean, maintainable code | 🔄 RESTful API development |
 
-**📍 Location:** Aligarh, India | **🌐 Open to:** Remote, Noida, Bengaluru
+**📍 Location:** Uttar Pradesh, India | **🌐 Open to:** Remote, Noida, Bengaluru
 
 </div>
 
