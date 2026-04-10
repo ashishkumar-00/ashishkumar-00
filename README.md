@@ -75,7 +75,7 @@ const ashish = {
   
 <!-- Stats Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashishkumar-00&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&rank_icon=github" height="180" />00&layout=compact&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" height="180" />
 
 <br/><br/>
 
