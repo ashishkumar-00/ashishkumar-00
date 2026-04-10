@@ -1,5 +1,3 @@
-
-
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Projects%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
@@ -106,14 +104,56 @@ const ashish = {
 
 ## 🚀 Featured Projects
 
-<!-- ✅ FIX 3: cache_seconds=1800 add kiya taaki fresh data aaye, aur &show_owner=true for better display -->
 <div align="center">
 
-[![DOM Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=DOM-Javascript-71-projects&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/DOM-Javascript-71-projects)
-[![Blinkit Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=blinkit-clone&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/blinkit-clone)
-
-[![Zomato Clone](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=zomato-colne&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/zomato-colne)
-[![Loop Projects](https://github-readme-stats.vercel.app/api/pin/?username=ashishkumar-00&repo=javascript-loop-logic-projects-40&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=6366F1&hide_border=true&show_owner=true)](https://github.com/ashishkumar-00/javascript-loop-logic-projects-40)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 Blinkit Clone</h3>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <p>Full grocery delivery app UI clone with cart functionality & responsive design</p>
+      <a href="https://github.com/ashishkumar-00/blinkit-clone">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍕 Zomato Clone</h3>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <p>Food delivery platform UI with restaurant listing, search & ordering flow</p>
+      <a href="https://github.com/ashishkumar-00/zomato-colne">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚡ 71 DOM Projects</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/DOM_API-FF6B35?style=flat-square"/>
+      <br/><br/>
+      <p>Massive collection of 07 hands-on JavaScript DOM manipulation projects</p>
+      <a href="https://github.com/ashishkumar-00/DOM-Javascript-71-projects">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔁 40 Loop Projects</h3>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Logic-6366F1?style=flat-square"/>
+      <br/><br/>
+      <p>40 logic-based JavaScript loop projects covering patterns, algorithms & more</p>
+      <a href="https://github.com/ashishkumar-00/javascript-loop-logic-projects-40">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
