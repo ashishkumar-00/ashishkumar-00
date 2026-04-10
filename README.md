@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ashish+Kumar+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Projects%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
 <br/>
